@@ -1,2 +1,2 @@
 # DrumKit
- JavaScript Projectwith animations
+ JavaScript Project with animations
